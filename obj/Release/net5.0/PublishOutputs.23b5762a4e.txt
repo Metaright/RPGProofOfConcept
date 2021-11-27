@@ -1,0 +1,5 @@
+C:\Users\matthew_crawford\source\repos\TheFinalBattle\bin\Release\net5.0\publish\TheFinalBattle.exe
+C:\Users\matthew_crawford\source\repos\TheFinalBattle\bin\Release\net5.0\publish\TheFinalBattle.dll
+C:\Users\matthew_crawford\source\repos\TheFinalBattle\bin\Release\net5.0\publish\TheFinalBattle.deps.json
+C:\Users\matthew_crawford\source\repos\TheFinalBattle\bin\Release\net5.0\publish\TheFinalBattle.runtimeconfig.json
+C:\Users\matthew_crawford\source\repos\TheFinalBattle\bin\Release\net5.0\publish\TheFinalBattle.pdb

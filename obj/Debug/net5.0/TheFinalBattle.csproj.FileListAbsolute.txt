@@ -1,0 +1,16 @@
+C:\Users\matthew_crawford\source\repos\TheFinalBattle\bin\Debug\net5.0\TheFinalBattle.exe
+C:\Users\matthew_crawford\source\repos\TheFinalBattle\bin\Debug\net5.0\TheFinalBattle.deps.json
+C:\Users\matthew_crawford\source\repos\TheFinalBattle\bin\Debug\net5.0\TheFinalBattle.runtimeconfig.json
+C:\Users\matthew_crawford\source\repos\TheFinalBattle\bin\Debug\net5.0\TheFinalBattle.runtimeconfig.dev.json
+C:\Users\matthew_crawford\source\repos\TheFinalBattle\bin\Debug\net5.0\TheFinalBattle.dll
+C:\Users\matthew_crawford\source\repos\TheFinalBattle\bin\Debug\net5.0\ref\TheFinalBattle.dll
+C:\Users\matthew_crawford\source\repos\TheFinalBattle\bin\Debug\net5.0\TheFinalBattle.pdb
+C:\Users\matthew_crawford\source\repos\TheFinalBattle\obj\Debug\net5.0\TheFinalBattle.csproj.AssemblyReference.cache
+C:\Users\matthew_crawford\source\repos\TheFinalBattle\obj\Debug\net5.0\TheFinalBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matthew_crawford\source\repos\TheFinalBattle\obj\Debug\net5.0\TheFinalBattle.AssemblyInfoInputs.cache
+C:\Users\matthew_crawford\source\repos\TheFinalBattle\obj\Debug\net5.0\TheFinalBattle.AssemblyInfo.cs
+C:\Users\matthew_crawford\source\repos\TheFinalBattle\obj\Debug\net5.0\TheFinalBattle.csproj.CoreCompileInputs.cache
+C:\Users\matthew_crawford\source\repos\TheFinalBattle\obj\Debug\net5.0\TheFinalBattle.dll
+C:\Users\matthew_crawford\source\repos\TheFinalBattle\obj\Debug\net5.0\ref\TheFinalBattle.dll
+C:\Users\matthew_crawford\source\repos\TheFinalBattle\obj\Debug\net5.0\TheFinalBattle.pdb
+C:\Users\matthew_crawford\source\repos\TheFinalBattle\obj\Debug\net5.0\TheFinalBattle.genruntimeconfig.cache
